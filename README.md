@@ -1,5 +1,6 @@
 # smart_home_app
-![Uploading ui.png…]()
+
+![ui](https://github.com/user-attachments/assets/5e8441cb-b026-4834-a72c-cd6840b92070)
 
 A new Flutter project.
 
